@@ -1,0 +1,43 @@
+{
+  "title": "Barcelona, Spain",
+  "destination": "Barcelona",
+  "overview": "Barcelona, the cosmopolitan capital of Spain's Catalonia region, is famed for its stunning architecture by Antoni Gaudí, vibrant street life along Las Ramblas, world-class beaches, and a culinary scene that ranges from tapas bars to avant-garde restaurants. The city perfectly blends Gothic medieval history with modernist art and Mediterranean beach culture.",
+  "best_time_to_visit": "May–June and September–October for warm weather, manageable crowds, and great outdoor dining. July–August is hot (30°C+) and extremely crowded. March–April is mild and affordable.",
+  "climate": "Mediterranean. Hot, dry summers (28–33°C), mild winters (10–15°C). Very little rain in summer; occasional storms in autumn.",
+  "attractions": [
+    {"name": "Sagrada Família", "description": "Gaudí's unfinished masterpiece and the world's most visited church under construction. The interior's stained glass is breathtaking. Book tickets 2-3 months ahead.", "type": "architecture", "estimated_cost_usd": 35},
+    {"name": "Park Güell", "description": "UNESCO World Heritage garden complex with Gaudí's colourful mosaic terraces and sculptural archways. Monumental Zone requires timed-entry tickets.", "type": "park", "estimated_cost_usd": 13},
+    {"name": "Gothic Quarter (Barri Gòtic)", "description": "Barcelona's medieval heart with narrow cobblestone streets, Roman ruins, and the Barcelona Cathedral. Free to explore; atmospheric at night.", "type": "neighbourhood", "estimated_cost_usd": 0},
+    {"name": "La Boqueria Market", "description": "Famous food market on Las Ramblas with fresh produce, seafood, and tapas bars. Go early (before 10am) to avoid tourist crush. Avoid pre-prepared fruit cups.", "type": "market", "estimated_cost_usd": 10},
+    {"name": "Barceloneta Beach", "description": "City beach 10 minutes from the Gothic Quarter. Clean, lively, with beach bars (chiringuitos). Water warm June–September.", "type": "beach", "estimated_cost_usd": 0},
+    {"name": "Casa Batlló", "description": "One of Gaudí's most spectacular buildings, now a world-class museum. The 'Magic Nights' show on the terrace is unmissable. Book online for discounts.", "type": "museum", "estimated_cost_usd": 40},
+    {"name": "Montjuïc Castle & Views", "description": "Historic fortress atop Montjuïc hill with panoramic views of the city and harbour. Take the cable car up.", "type": "landmark", "estimated_cost_usd": 10},
+    {"name": "El Born & Picasso Museum", "description": "Trendy neighbourhood with the Picasso Museum (900 works), artisan shops, and some of Barcelona's best cocktail bars.", "type": "neighbourhood", "estimated_cost_usd": 14}
+  ],
+  "food": [
+    {"name": "Tapas at Bar del Pla", "description": "Local favourite in El Born for classic tapas: patatas bravas, croquetas, and jamón ibérico. Busy evenings – arrive early.", "avg_cost_usd": 18},
+    {"name": "La Cova Fumada (Barceloneta)", "description": "Legendary bare-bones bar where the bombas (potato croquette) were invented. Cash only, closes early afternoon.", "avg_cost_usd": 12},
+    {"name": "Catalan Cuisine", "description": "Try pa amb tomàquet (bread with tomato), escalivada (grilled vegetables), and crema catalana (similar to crème brûlée) at traditional restaurants.", "avg_cost_usd": 25},
+    {"name": "Vermouth Hour (La Vermutería)", "description": "Spanish tradition – vermouth with olives and anchovies at 1pm. Bars in the Gràcia and Sant Pere neighbourhoods are authentic.", "avg_cost_usd": 8},
+    {"name": "Disfrutar or Tickets by Albert Adrià", "description": "El Bulli alumni's molecular gastronomy restaurants. Disfrutar holds 2 Michelin stars. Book 3-6 months ahead.", "avg_cost_usd": 180}
+  ],
+  "accommodation": [
+    {"name": "Hotel Arts Barcelona", "type": "luxury", "neighbourhood": "Barceloneta", "avg_price_usd": 500},
+    {"name": "Cotton House Hotel", "type": "boutique", "neighbourhood": "Eixample", "avg_price_usd": 280},
+    {"name": "Equity Point Gothic Hostel", "type": "hostel", "neighbourhood": "Gothic Quarter", "avg_price_usd": 25},
+    {"name": "Apartments in Eixample", "type": "apartment", "neighbourhood": "Eixample", "avg_price_usd": 130}
+  ],
+  "transport": "Excellent metro (L1–L11) and bus network. T-Casual card (10 trips, €11.35) is best value. TMB app for real-time info. Bicing bike-sharing is popular. Airport bus (Aerobús) to Plaça de Catalunya takes 35 min (~€6).",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 70, "mid": 160, "high": 400},
+    "notes": "Barcelona is moderately priced by Western European standards. Menú del día (set lunch menu) at local restaurants offers 3 courses + wine for €12–15."
+  },
+  "tips": [
+    "Beware pickpockets on Las Ramblas – keep bags in front.",
+    "Book Sagrada Família tickets months in advance to avoid long queues.",
+    "Lunch is the main meal (2-4pm); many restaurants only open for dinner from 9pm.",
+    "Learn a few Catalan words – locals appreciate 'Gràcies' over 'Gracias'.",
+    "The beach can be crowded in summer – escape to Sitges (30 min by train) for quieter shores."
+  ],
+  "interests": ["culture", "architecture", "food", "beach", "art", "nightlife"]
+}

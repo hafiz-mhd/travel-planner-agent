@@ -1,0 +1,43 @@
+{
+  "title": "Marrakech, Morocco",
+  "destination": "Marrakech",
+  "overview": "Marrakech, the 'Red City', is Morocco's most magical destination – a sensory explosion of spice-laden souks, intricately tiled palaces, and vibrant Djemaa el-Fna square. The medina (old city), a UNESCO World Heritage Site, has barely changed in centuries, with narrow labyrinthine alleys leading to hidden riads, ornate mosques, and hammams. A short flight from Europe, Marrakech offers extraordinary value and an immersive cultural experience unlike anywhere else.",
+  "best_time_to_visit": "March–May and October–November for pleasant temperatures (20–28°C). Summer (June–August) is extremely hot (38–42°C). December–February is cool with possible rain but festive atmosphere.",
+  "climate": "Semi-arid. Very hot, dry summers (38–42°C), mild winters (5–18°C). Rain is rare and mostly in winter. Low humidity in summer.",
+  "attractions": [
+    {"name": "Djemaa el-Fna Square", "description": "Marrakech's beating heart – by day, snake charmers and orange juice stalls; by evening, transforms into a vast open-air theatre with storytellers, musicians, and food stalls. Free to wander; food stalls ~$5-10.", "type": "square", "estimated_cost_usd": 0},
+    {"name": "Medina Souks", "description": "Miles of covered markets organised by trade: spice souk, leather souk, lantern souk, textile souk. Expert navigation required. Bargain hard – start at 25-30% of asking price.", "type": "market", "estimated_cost_usd": 0},
+    {"name": "Majorelle Garden & YSL Museum", "description": "Stunning cobalt-blue botanical garden designed by French painter Jacques Majorelle, later owned by Yves Saint Laurent. The adjacent Berber Museum is excellent.", "type": "garden", "estimated_cost_usd": 15},
+    {"name": "Bahia Palace", "description": "19th-century palace showcasing the finest of Moroccan and Islamic architecture: painted cedar ceilings, zellij tiling, and carved stucco. Affordable and impressive.", "type": "palace", "estimated_cost_usd": 2},
+    {"name": "Hammam Experience", "description": "Traditional Moroccan bathhouse ritual – steam room, black soap scrub, and a clay mask. Authentic hammams cost $5-10; upscale spa versions $50-100.", "type": "wellness", "estimated_cost_usd": 30},
+    {"name": "Saadian Tombs", "description": "Elaborate royal tombs from the Saadian dynasty, rediscovered in 1917, with intricate tilework and carved plaster. Low entry price.", "type": "history", "estimated_cost_usd": 2},
+    {"name": "Medersa Ben Youssef", "description": "Morocco's largest Quranic school, built in the 14th century. The central courtyard's carved stucco and mosaic tilework are among the finest examples of Moroccan craftsmanship.", "type": "historical", "estimated_cost_usd": 2},
+    {"name": "Day Trip to Atlas Mountains", "description": "One-hour drive to the Ourika Valley or Toubkal National Park. Highest peak in North Africa (4,167m). Guided day hikes, Berber village visits.", "type": "day_trip", "estimated_cost_usd": 40}
+  ],
+  "food": [
+    {"name": "Tagine", "description": "Slow-cooked stew in a conical clay pot – lamb with prunes and almonds, or chicken with preserved lemon. Ubiquitous and excellent. Good riads serve the best versions.", "avg_cost_usd": 10},
+    {"name": "Couscous Friday", "description": "By Moroccan tradition, couscous is served every Friday. Find it at local restaurants away from tourist areas for an authentic experience.", "avg_cost_usd": 8},
+    {"name": "Street Food at Djemaa el-Fna", "description": "Merguez sausages, harira soup, snail broth, and fresh-squeezed orange juice. Busy and atmospheric evening dining.", "avg_cost_usd": 7},
+    {"name": "Mint Tea Ceremony", "description": "Moroccan hospitality ritual poured from height into small glasses. Sweet and refreshing. Often offered in shops as a social gesture.", "avg_cost_usd": 2},
+    {"name": "Le Jardin or Nomad (Medina)", "description": "Upscale Moroccan-fusion rooftop restaurants near the medina. Excellent views, refined tagines, and cocktails.", "avg_cost_usd": 30}
+  ],
+  "accommodation": [
+    {"name": "La Mamounia", "type": "luxury palace hotel", "neighbourhood": "Medina", "avg_price_usd": 700},
+    {"name": "Riad Yasmine", "type": "boutique riad", "neighbourhood": "Medina", "avg_price_usd": 120},
+    {"name": "Equity Point Marrakech Hostel", "type": "hostel", "neighbourhood": "Gueliz", "avg_price_usd": 15},
+    {"name": "Traditional Riad in the Medina", "type": "riad", "neighbourhood": "Medina", "avg_price_usd": 80}
+  ],
+  "transport": "The medina is best explored on foot (or getting pleasantly lost). Petits taxis are metered for short rides (~$2-5). A horse-drawn calèche is a romantic alternative for a tour of the ramparts. Marrakech Menara Airport is 6km from the city centre – taxi ~$7.",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 35, "mid": 100, "high": 300},
+    "notes": "Marrakech is excellent value. A traditional riad with breakfast can cost less than a budget hotel in Europe. Always negotiate taxi fares before getting in."
+  },
+  "tips": [
+    "Hire a licensed guide for the souks to avoid harassment and learn the history.",
+    "Dress modestly (cover shoulders and knees) in the medina out of respect.",
+    "Accept mint tea offerings graciously in shops – it doesn't obligate you to buy.",
+    "Learn a few words of Darija (Moroccan Arabic) or French – greatly appreciated.",
+    "The medina is deliberately confusing – getting lost is part of the experience; use Google Maps to re-orient."
+  ],
+  "interests": ["culture", "history", "food", "adventure", "relaxation", "shopping", "architecture"]
+}

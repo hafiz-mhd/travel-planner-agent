@@ -1,0 +1,43 @@
+{
+  "title": "Cape Town, South Africa",
+  "destination": "Cape Town",
+  "overview": "Cape Town is South Africa's legislative capital and one of Africa's most spectacular cities, dramatically set between the iconic Table Mountain and the Atlantic Ocean. It offers a stunning combination of mountain hikes, pristine beaches, world-class wine estates, vibrant food and art scenes, and rich history including Robben Island where Nelson Mandela was imprisoned. One of the world's top 'surprise me' destinations.",
+  "best_time_to_visit": "November–March (Southern Hemisphere summer) for beach weather and outdoor activities. December–January is peak season. April–May is shoulder season with great hiking weather and fewer crowds.",
+  "climate": "Mediterranean. Hot, dry summers (25–30°C), mild wet winters (12–17°C). The Cape Doctor (southeasterly wind) blows strongly in summer. Winters (June–August) are cooler and rainy.",
+  "attractions": [
+    {"name": "Table Mountain", "description": "UNESCO World Heritage Site and Cape Town's defining landmark. Cable car or 2-3 hour hike to the top for 360° views. Check wind conditions before going – cable car closes in high winds.", "type": "nature", "estimated_cost_usd": 30},
+    {"name": "Robben Island", "description": "Historic island where Nelson Mandela and other political prisoners were held. Guided tours include a visit to Mandela's cell, led by former prisoners.", "type": "history", "estimated_cost_usd": 35},
+    {"name": "Cape of Good Hope", "description": "The southwestern tip of Africa within the Cape Peninsula National Park. Combine with Boulders Penguin Colony (African penguins) for a full day.", "type": "nature", "estimated_cost_usd": 25},
+    {"name": "Boulders Beach Penguin Colony", "description": "A colony of 3,000 African penguins nesting among boulders near Simonstown. Accessible boardwalks allow close viewing.", "type": "wildlife", "estimated_cost_usd": 15},
+    {"name": "V&A Waterfront", "description": "Working harbour with shops, restaurants, the Zeitz MOCAA contemporary African art museum, and ferries to Robben Island. Safe and lively day and night.", "type": "waterfront", "estimated_cost_usd": 0},
+    {"name": "Stellenbosch Wine Route", "description": "45-minute drive from Cape Town, Stellenbosch has 200+ wine estates. Spier, Jordan, and Delaire Graff are standouts. Wine tasting typically $10-20 per estate.", "type": "day_trip", "estimated_cost_usd": 50},
+    {"name": "Bo-Kaap", "description": "Colourful Cape Malay neighbourhood with cobblestone streets and pastel-painted houses. Home to the Bo-Kaap Museum and excellent Cape Malay cuisine.", "type": "neighbourhood", "estimated_cost_usd": 5},
+    {"name": "Chapman's Peak Drive", "description": "One of the world's most scenic coastal drives along a dramatic cliff road on the Atlantic seaboard. Toll road ~$3 each way.", "type": "scenic_drive", "estimated_cost_usd": 3}
+  ],
+  "food": [
+    {"name": "Braai (South African BBQ)", "description": "A national institution. Boerewors (spiced sausage), lamb chops, and pap (maize porridge). Join a local or visit a braai restaurant like Mzoli's in Gugulethu.", "avg_cost_usd": 20},
+    {"name": "Cape Malay Cuisine", "description": "Sweet-spiced curries, bobotie (spiced minced meat pie), and koeksisters (syrup-soaked doughnuts) reflect the city's rich culinary heritage.", "avg_cost_usd": 15},
+    {"name": "Seafood at the Harbour House", "description": "Kalk Bay harbourside restaurant famous for snoek, crayfish, and fish of the day caught within metres of your table.", "avg_cost_usd": 35},
+    {"name": "Oranjezicht City Farm Market", "description": "Saturday farmers' market with artisan produce, local wines, and street food. One of the city's best social scenes.", "avg_cost_usd": 15},
+    {"name": "Test Kitchen (Luke Dale-Roberts)", "description": "One of Africa's best restaurants, often in the World's 50 Best. Book months ahead. The 8-course tasting menu is extraordinary.", "avg_cost_usd": 120}
+  ],
+  "accommodation": [
+    {"name": "The Silo Hotel", "type": "luxury", "neighbourhood": "V&A Waterfront", "avg_price_usd": 800},
+    {"name": "The Kensington Place", "type": "boutique", "neighbourhood": "Higgovale", "avg_price_usd": 250},
+    {"name": "Once in Cape Town", "type": "guesthouse", "neighbourhood": "De Waterkant", "avg_price_usd": 100},
+    {"name": "Ashanti Lodge", "type": "hostel", "neighbourhood": "Gardens", "avg_price_usd": 20}
+  ],
+  "transport": "Car rental is strongly recommended for exploring outside the city centre (~$30/day). Uber and Bolt are safe and affordable within the city. The MyCiTi bus serves the waterfront and airport. Walking is fine in tourist areas but avoid walking after dark in unfamiliar areas.",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 60, "mid": 150, "high": 400},
+    "notes": "South Africa is excellent value for international visitors. The Rand exchange rate makes luxury experiences very affordable. Tipping 10-15% is customary."
+  },
+  "tips": [
+    "Don't leave valuables visible in parked cars – smash-and-grab theft is common.",
+    "The Cape Doctor wind affects outdoor plans – always have a backup activity.",
+    "Uber is safer and cheaper than street taxis.",
+    "Book Table Mountain cable car early in the morning before clouds roll in.",
+    "Respect load-shedding schedules – power cuts of 2-4 hours are common; restaurants manage well."
+  ],
+  "interests": ["adventure", "nature", "culture", "food", "wine", "wildlife", "history"]
+}

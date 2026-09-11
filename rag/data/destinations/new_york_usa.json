@@ -1,0 +1,43 @@
+{
+  "title": "New York City, USA",
+  "destination": "New York City",
+  "overview": "New York City is the most populous city in the United States and a global hub of culture, finance, art, and diversity. Comprising five boroughs, NYC offers something for everyone: world-class museums and Broadway shows, iconic skyline views, diverse neighbourhoods, and an unmatched food scene spanning every cuisine on Earth.",
+  "best_time_to_visit": "April–June and September–November for mild weather and vibrant street life. December is magical for holiday lights but crowded. July–August is hot and busy.",
+  "climate": "Humid continental. Hot, humid summers (28–32°C), cold winters (-2–5°C) with occasional snow. Spring and autumn are pleasant with temps 10–22°C.",
+  "attractions": [
+    {"name": "Central Park", "description": "843-acre urban park in the heart of Manhattan. Rent a bike, visit the zoo, or catch a free Shakespeare in the Park performance in summer.", "type": "park", "estimated_cost_usd": 0},
+    {"name": "Metropolitan Museum of Art", "description": "One of the world's largest and finest art museums with over 2 million works spanning 5,000 years. Pay-what-you-wish for NY state residents.", "type": "museum", "estimated_cost_usd": 25},
+    {"name": "Statue of Liberty & Ellis Island", "description": "Take a ferry from Battery Park to visit America's most iconic landmark and the immigration museum. Book pedestal access well in advance.", "type": "landmark", "estimated_cost_usd": 24},
+    {"name": "Brooklyn Bridge Walk", "description": "Walk across the iconic suspension bridge for stunning views of the Manhattan skyline. Free and best in early morning before crowds.", "type": "landmark", "estimated_cost_usd": 0},
+    {"name": "High Line", "description": "Elevated linear park built on a former freight rail line on Manhattan's west side. Features gardens, art installations, and great views.", "type": "park", "estimated_cost_usd": 0},
+    {"name": "Times Square", "description": "The neon-lit heart of Midtown Manhattan. Best experienced at night. Skip the chain restaurants and explore nearby Hell's Kitchen for better food.", "type": "landmark", "estimated_cost_usd": 0},
+    {"name": "One World Observatory", "description": "Observation deck atop One World Trade Center with 360° views from 100 floors up. Book online for discounts.", "type": "observatory", "estimated_cost_usd": 42},
+    {"name": "MoMA", "description": "Museum of Modern Art with works by Picasso, Pollock, Warhol, and Monet's Water Lilies. Free Friday evenings 5:30–9pm.", "type": "museum", "estimated_cost_usd": 25}
+  ],
+  "food": [
+    {"name": "NYC Pizza Slice", "description": "Grab a classic New York dollar slice (now ~$3) and fold it in half. Joe's Pizza in Greenwich Village is the gold standard.", "avg_cost_usd": 4},
+    {"name": "Bagel & Lox", "description": "Breakfast institution. Ess-a-Bagel and Russ & Daughters on the Lower East Side are legendary. Get it with cream cheese and smoked salmon.", "avg_cost_usd": 10},
+    {"name": "Smash Burgers at J.G. Melon", "description": "Classic Upper East Side institution for juicy burgers and cottage fries. Cash only.", "avg_cost_usd": 22},
+    {"name": "Chelsea Market Food Hall", "description": "Former factory building turned gourmet food hall with artisan vendors. Great for a self-guided food tour.", "avg_cost_usd": 20},
+    {"name": "Katz's Delicatessen", "description": "Iconic Lower East Side Jewish deli, famous for pastrami sandwiches since 1888. A cultural institution as much as a restaurant.", "avg_cost_usd": 25}
+  ],
+  "accommodation": [
+    {"name": "The Plaza Hotel", "type": "luxury", "neighbourhood": "Midtown", "avg_price_usd": 900},
+    {"name": "Pod 51", "type": "budget boutique", "neighbourhood": "Midtown East", "avg_price_usd": 130},
+    {"name": "HI NYC Hostel", "type": "hostel", "neighbourhood": "Upper West Side", "avg_price_usd": 45},
+    {"name": "Arlo Williamsburg", "type": "boutique", "neighbourhood": "Brooklyn", "avg_price_usd": 200}
+  ],
+  "transport": "NYC's subway runs 24/7 and is the best way to get around. Single ride $2.90 or get an OMNY-linked unlimited card. For outer boroughs, use the subway + occasional Uber/Lyft. Yellow cabs are plentiful. Walking is often fastest in Midtown.",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 100, "mid": 250, "high": 600},
+    "notes": "NYC is expensive. Budget 20% extra for tipping (15–20% on food and services). Many free attractions (Central Park, High Line, Brooklyn Bridge) make budget travel feasible."
+  },
+  "tips": [
+    "Tip 18–20% at restaurants – service charge is rarely included.",
+    "Avoid tourist-trap restaurants in Times Square – walk 2 blocks for much better food at lower prices.",
+    "The subway is safe and efficient – don't be intimidated by its complexity.",
+    "Many world-class museums have suggested (not mandatory) admission – you can pay less.",
+    "Visit the Brooklyn side of the Brooklyn Bridge for the best Manhattan skyline photos."
+  ],
+  "interests": ["culture", "food", "art", "shopping", "entertainment", "architecture"]
+}

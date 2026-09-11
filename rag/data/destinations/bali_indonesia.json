@@ -1,0 +1,43 @@
+{
+  "title": "Bali, Indonesia",
+  "destination": "Bali",
+  "overview": "Bali is Indonesia's most famous island and a world-renowned destination offering a unique blend of spiritual culture, lush rice terraces, volcanic mountains, and pristine beaches. Known as the 'Island of the Gods', Bali is famous for its Hindu temples, traditional arts, and exceptional hospitality. A paradise for surfers, yoga enthusiasts, foodies, and cultural explorers.",
+  "best_time_to_visit": "April–October (dry season) for the best beach and outdoor activities. July–August is peak season with higher prices. May–June and September are the sweet spot – dry but less crowded.",
+  "climate": "Tropical. Hot and humid year-round (27–32°C). Wet season November–March brings heavy afternoon rains. Dry season April–October is ideal for most activities.",
+  "attractions": [
+    {"name": "Tanah Lot Temple", "description": "Iconic sea temple perched on a rocky outcrop, surrounded by ocean at high tide. Most photogenic at sunset. One of Bali's most sacred sites.", "type": "temple", "estimated_cost_usd": 5},
+    {"name": "Ubud Monkey Forest", "description": "Sacred sanctuary in Ubud with 700+ long-tailed macaques roaming among ancient temple ruins. Wear no jewellery or food in open bags.", "type": "sanctuary", "estimated_cost_usd": 5},
+    {"name": "Tegallalang Rice Terraces", "description": "UNESCO-listed subak irrigation system creating stunning stepped rice paddies north of Ubud. Best in the morning for good light and fewer visitors.", "type": "nature", "estimated_cost_usd": 2},
+    {"name": "Mount Batur Sunrise Trek", "description": "3-hour pre-dawn hike to an active volcano summit (1,717m) for a spectacular sunrise over the caldera lake. Guide required (~$35).", "type": "adventure", "estimated_cost_usd": 35},
+    {"name": "Seminyak Beach", "description": "Upscale beach area with world-class surf breaks, beach clubs (Ku De Ta, Potato Head), and boutique shopping. Best sunset spot on the island.", "type": "beach", "estimated_cost_usd": 0},
+    {"name": "Uluwatu Temple & Kecak Fire Dance", "description": "Clifftop temple 70m above the ocean. Nightly Kecak fire dance at sunset is a highlight. Wear a sarong (provided at entrance).", "type": "cultural", "estimated_cost_usd": 10},
+    {"name": "Nusa Penida Day Trip", "description": "Rugged island 45 min by fast boat from Sanur. Kelingking Beach (T-Rex cliff viewpoint) and Angel's Billabong are unmissable.", "type": "day_trip", "estimated_cost_usd": 40},
+    {"name": "Ubud Art Market & Palace", "description": "Vibrant market with handcrafted textiles, woodcarvings, and silver jewellery. The royal Ubud Palace opposite hosts traditional dance performances.", "type": "market", "estimated_cost_usd": 5}
+  ],
+  "food": [
+    {"name": "Nasi Goreng", "description": "Indonesia's national dish – fried rice with egg, satay sticks, and prawn crackers. Available everywhere from warungs to upscale restaurants.", "avg_cost_usd": 4},
+    {"name": "Babi Guling", "description": "Balinese spit-roasted suckling pig, traditionally a ceremonial dish. Ibu Oka in Ubud is the most famous spot.", "avg_cost_usd": 8},
+    {"name": "Warung Dining", "description": "Small family-run warungs serving local rice dishes, satay, and fresh coconut water. Authentic, cheap, and often the best food on the island.", "avg_cost_usd": 5},
+    {"name": "Seminyak Restaurant Scene", "description": "World-class dining in Seminyak: Merah Putih for modern Indonesian, Sarong for fusion, La Lucciola for beachside Italian.", "avg_cost_usd": 30},
+    {"name": "Smoothie Bowls & Vegan Cafes", "description": "Ubud is a global centre for health-conscious eating. Kafe and Clear Cafe serve excellent vegan/vegetarian menus.", "avg_cost_usd": 10}
+  ],
+  "accommodation": [
+    {"name": "COMO Uma Ubud", "type": "luxury resort", "neighbourhood": "Ubud", "avg_price_usd": 450},
+    {"name": "Komaneka at Bisma", "type": "boutique", "neighbourhood": "Ubud", "avg_price_usd": 300},
+    {"name": "Seminyak Square Villas", "type": "villa", "neighbourhood": "Seminyak", "avg_price_usd": 180},
+    {"name": "Tribal Hostel Bali", "type": "hostel", "neighbourhood": "Canggu", "avg_price_usd": 12}
+  ],
+  "transport": "Rent a scooter ($5-8/day) for maximum flexibility but ensure you have an international licence. Grab (ride-hailing app) is safe and cheap for short trips. Private drivers for day trips cost ~$40-60. No reliable public transport.",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 40, "mid": 120, "high": 400},
+    "notes": "Bali is extremely affordable for budget travellers. Street food, scooter rental, and guesthouses make $40/day very comfortable. Beach clubs and fine dining can push costs up quickly."
+  },
+  "tips": [
+    "Always cover shoulders and legs when entering temples (sarongs are rented at entrance).",
+    "Bargaining is expected at markets – start at 30-40% of the asking price.",
+    "Download the Grab app for safe, metered rides.",
+    "Be cautious of Bintang singlet tan lines – dress respectfully outside tourist areas.",
+    "Book Mount Batur treks and Nusa Penida boats well in advance in peak season."
+  ],
+  "interests": ["relaxation", "adventure", "culture", "food", "nature", "spirituality", "surfing"]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Paris, France",
+  "destination": "Paris",
+  "overview": "Paris, the City of Light, is the capital of France and one of the world's greatest cities. A global centre for art, fashion, gastronomy, and culture, Paris is home to iconic landmarks like the Eiffel Tower, the Louvre, and Notre-Dame Cathedral. The city radiates romance and sophistication, offering world-class museums, Michelin-starred restaurants, charming neighbourhoods, and vibrant nightlife.",
+  "best_time_to_visit": "April–June and September–October for mild weather and fewer crowds. July–August is peak tourist season and can be hot. December brings Christmas markets.",
+  "climate": "Oceanic climate. Mild summers (20–25°C), cool winters (3–8°C). Rain is possible year-round; spring and autumn can be wet.",
+  "attractions": [
+    {"name": "Eiffel Tower", "description": "Iconic iron lattice tower on the Champ de Mars. Buy tickets online to skip queues. Summit offers panoramic views of Paris.", "type": "landmark", "estimated_cost_usd": 26},
+    {"name": "The Louvre", "description": "World's largest art museum housing the Mona Lisa, Venus de Milo, and 35,000+ objects. Allow at least half a day.", "type": "museum", "estimated_cost_usd": 17},
+    {"name": "Musée d'Orsay", "description": "Impressionist and Post-Impressionist masterpieces including Monet, Renoir, and Van Gogh, housed in a beautiful Beaux-Arts railway station.", "type": "museum", "estimated_cost_usd": 16},
+    {"name": "Notre-Dame Cathedral", "description": "Medieval Gothic cathedral on the Île de la Cité, currently under restoration after the 2019 fire. Exterior viewing is free.", "type": "landmark", "estimated_cost_usd": 0},
+    {"name": "Montmartre & Sacré-Cœur", "description": "Bohemian hilltop neighbourhood with the white-domed Sacré-Cœur basilica, artist squares, and sweeping city views. Free to enter the basilica.", "type": "neighbourhood", "estimated_cost_usd": 0},
+    {"name": "Palace of Versailles", "description": "Opulent royal château and gardens 30 min from Paris by RER C. One of Europe's most visited attractions. Book tickets in advance.", "type": "day_trip", "estimated_cost_usd": 20},
+    {"name": "Seine River Cruise", "description": "1-hour boat tour past all major landmarks. Best at sunset. Multiple operators including Bateaux Mouches and Vedettes du Pont Neuf.", "type": "tour", "estimated_cost_usd": 15},
+    {"name": "Marais District", "description": "Historic district with medieval streets, the Place des Vosges, Picasso Museum, and dozens of independent boutiques and galleries.", "type": "neighbourhood", "estimated_cost_usd": 0}
+  ],
+  "food": [
+    {"name": "Croissants & Café", "description": "Start every morning at a local boulangerie. Maison Landemaine and Du Pain et des Idées are among the best.", "avg_cost_usd": 5},
+    {"name": "Bistro Lunch", "description": "Traditional plat du jour at a neighbourhood bistro, typically includes starter, main, and carafe of wine. Avoid tourist traps on main boulevards.", "avg_cost_usd": 18},
+    {"name": "Le Marché des Enfants Rouges", "description": "Paris's oldest covered market with food stalls serving Moroccan, Japanese, Italian, and French dishes. Great for a casual lunch.", "avg_cost_usd": 12},
+    {"name": "Ladurée & Pierre Hermé", "description": "Famous patisseries for world-class macarons. Ladurée on Rue Royale is the original location.", "avg_cost_usd": 8},
+    {"name": "Michelin-Star Dining", "description": "Paris has more Michelin-starred restaurants than any other city. Guy Savoy and Pierre Gagnaire are legendary. Book months in advance.", "avg_cost_usd": 250}
+  ],
+  "accommodation": [
+    {"name": "Hôtel Plaza Athénée", "type": "luxury", "neighbourhood": "8th arrondissement", "avg_price_usd": 1200},
+    {"name": "Hôtel des Grands Boulevards", "type": "boutique", "neighbourhood": "2nd arrondissement", "avg_price_usd": 280},
+    {"name": "Generator Paris", "type": "hostel", "neighbourhood": "10th arrondissement", "avg_price_usd": 35},
+    {"name": "Airbnb apartments in Le Marais", "type": "apartment", "neighbourhood": "4th arrondissement", "avg_price_usd": 150}
+  ],
+  "transport": "Paris has an excellent metro (14 lines), RER trains, and buses. Buy a carnet of 10 tickets or a Navigo week pass (€30). Bike-sharing via Vélib' is great for exploring. Taxis and Uber available but expensive in traffic.",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 80, "mid": 200, "high": 500},
+    "notes": "Museum Paris Pass (2/4/6 days) covers major museums and some transport. Pre-book popular attractions to avoid queues."
+  },
+  "tips": [
+    "Learn a few French phrases – 'Bonjour', 'Merci', 's'il vous plaît' go a long way.",
+    "Validate your metro ticket before boarding to avoid fines.",
+    "Many museums are free on the first Sunday of the month.",
+    "Avoid eating on the Champs-Élysées – quality is low, prices are high.",
+    "Paris is very walkable – the best way to explore is on foot between arrondissements."
+  ],
+  "interests": ["culture", "food", "art", "romance", "history", "architecture"]
+}

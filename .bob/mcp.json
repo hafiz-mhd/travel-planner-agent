@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "watsonx-orchestrate-adk-docs": {
+      "command": "C:\\Users\\User\\AppData\\Local\\Microsoft\\WinGet\\Links\\uvx.exe",
+      "args": [
+        "mcp-proxy",
+        "--transport",
+        "streamablehttp",
+        "https://developer.watson-orchestrate.ibm.com/mcp"
+      ],
+      "timeout": 120000
+    },
+    "watsonx-orchestrate-adk": {
+      "command": "C:\\Users\\User\\AppData\\Local\\Microsoft\\WinGet\\Links\\uvx.exe",
+      "args": [
+        "ibm-watsonx-orchestrate-mcp-server"
+      ],
+      "env": {
+        "WXO_MCP_WORKING_DIRECTORY": "e:\\my files\\Travel Planner Agent",
+        "WXO_MCP_DEBUG": ""
+      },
+      "timeout": 120000
+    }
+  }
+}

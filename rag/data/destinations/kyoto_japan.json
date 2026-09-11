@@ -1,0 +1,43 @@
+{
+  "title": "Kyoto, Japan",
+  "destination": "Kyoto",
+  "overview": "Kyoto was Japan's imperial capital for over a millennium and remains the country's cultural heart. With 17 UNESCO World Heritage sites, thousands of Shinto shrines and Buddhist temples, traditional machiya townhouses, and the last living geisha districts, Kyoto offers an unparalleled window into classical Japanese civilisation. It is quieter and more refined than Tokyo but equally rewarding.",
+  "best_time_to_visit": "March–May for cherry blossoms (late March–mid April is peak), and November for spectacular autumn foliage. Summer (July–August) is hot and humid but features traditional festivals like Gion Matsuri.",
+  "climate": "Humid subtropical. Hot, humid summers (33–36°C), cold winters (2–8°C) with occasional snow. Spring and autumn are the most pleasant seasons.",
+  "attractions": [
+    {"name": "Fushimi Inari Taisha", "description": "Thousands of vermillion torii gates winding up a forested mountain. Visit before 8am to avoid crowds. Free entry, 2-4 hour full hike.", "type": "shrine", "estimated_cost_usd": 0},
+    {"name": "Arashiyama Bamboo Grove", "description": "Iconic bamboo forest corridor. Extremely crowded by midday – visit at dawn for a magical experience. Combine with Tenryu-ji temple garden (UNESCO).", "type": "nature", "estimated_cost_usd": 12},
+    {"name": "Kinkaku-ji (Golden Pavilion)", "description": "Three-story Zen Buddhist temple covered in gold leaf, perfectly reflected in the surrounding pond. One of Japan's most photographed landmarks.", "type": "temple", "estimated_cost_usd": 5},
+    {"name": "Gion District", "description": "Kyoto's famous geisha district with preserved 16th-century machiya townhouses. Hanamikoji Street at dusk is atmospheric. Respectful photography of geiko/maiko is permitted.", "type": "district", "estimated_cost_usd": 0},
+    {"name": "Philosopher's Path", "description": "Scenic 2km canal-side walk through Higashiyama lined with cherry trees. Connects Nanzen-ji to Ginkaku-ji. Best in cherry blossom and autumn foliage seasons.", "type": "walk", "estimated_cost_usd": 0},
+    {"name": "Nishiki Market", "description": "Kyoto's 'kitchen' – a narrow covered market with 100+ vendors selling tsukemono pickles, matcha sweets, tofu, and fresh produce. Free to browse.", "type": "market", "estimated_cost_usd": 10},
+    {"name": "Nijo Castle", "description": "Shogun's Kyoto residence with 'nightingale floors' that squeak to detect intruders, and stunning Edo-period paintings. UNESCO listed.", "type": "castle", "estimated_cost_usd": 8},
+    {"name": "Day Trip to Nara", "description": "45 min by train, Nara has 1,200 free-roaming deer and the enormous Todai-ji temple with Japan's largest bronze Buddha. Get deer crackers from vendors.", "type": "day_trip", "estimated_cost_usd": 20}
+  ],
+  "food": [
+    {"name": "Kaiseki Dinner", "description": "Traditional multi-course Kyoto haute cuisine featuring seasonal ingredients in artistic presentations. Kikunoi and Nakamura are renowned establishments.", "avg_cost_usd": 120},
+    {"name": "Yudofu (Tofu Hot Pot)", "description": "Kyoto speciality of silken tofu simmered in konbu broth, served with dipping sauces. Tousuiro near Ginkaku-ji is excellent.", "avg_cost_usd": 30},
+    {"name": "Matcha Everything", "description": "Kyoto is the epicentre of matcha culture. Try matcha parfaits at Nakamura Tokichi in Uji, or matcha soft-serve near major temples.", "avg_cost_usd": 8},
+    {"name": "Nishiki Market Snacks", "description": "Grilled skewers, marinated octopus, and fresh mochi at Nishiki Market vendors. Perfect lunch while exploring the market.", "avg_cost_usd": 12},
+    {"name": "Obanzai Cuisine", "description": "Kyoto-style home cooking featuring seasonal vegetables, tofu, and small preserved dishes. Excellent value at local restaurants around Pontocho.", "avg_cost_usd": 20}
+  ],
+  "accommodation": [
+    {"name": "Tawaraya Ryokan", "type": "luxury ryokan", "neighbourhood": "Nakagyo", "avg_price_usd": 800},
+    {"name": "The Millennials Kyoto", "type": "boutique", "neighbourhood": "Kawaramachi", "avg_price_usd": 90},
+    {"name": "Piece Hostel Kyoto", "type": "hostel", "neighbourhood": "Kawaramachi", "avg_price_usd": 30},
+    {"name": "Machiya Townhouse Rental", "type": "traditional house", "neighbourhood": "Higashiyama", "avg_price_usd": 200}
+  ],
+  "transport": "Kyoto is well-served by buses (¥230/ride or ¥600 day pass) and a small metro. The ICOCA card works on both. Many sights are within cycling distance – bike rental ~¥1000/day. Taxis are metered and plentiful. Shinkansen to Tokyo takes 2h 15min (~¥14,000).",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 65, "mid": 160, "high": 450},
+    "notes": "Kyoto is slightly cheaper than Tokyo. Ryokan (traditional inn) stays include multi-course dinner and breakfast and represent exceptional value at mid-to-high budgets."
+  },
+  "tips": [
+    "Do not touch or feed the deer in Nara – they bite.",
+    "Many temples prohibit photography inside the main halls.",
+    "Bow when passing through torii gates as a sign of respect.",
+    "The cheapest accommodation books out months ahead for cherry blossom season – plan well in advance.",
+    "Early mornings (before 8am) are the secret to experiencing famous sites without crowds."
+  ],
+  "interests": ["culture", "history", "spirituality", "food", "nature", "art", "relaxation"]
+}

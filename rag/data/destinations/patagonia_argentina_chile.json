@@ -1,0 +1,43 @@
+{
+  "title": "Patagonia, Argentina & Chile",
+  "destination": "Patagonia",
+  "overview": "Patagonia spans the southern tips of Argentina and Chile and is one of the world's last great wildernesses. It encompasses Torres del Paine National Park (Chile), Los Glaciares National Park (Argentina) with the Perito Moreno Glacier, and the dramatic end-of-the-world city of Ushuaia. For adventure travellers seeking epic landscapes of jagged granite towers, calving glaciers, and roaming guanacos, Patagonia is unmatched.",
+  "best_time_to_visit": "November–March (Patagonian summer). December–February is peak season with the most reliable weather. Shoulder months (November and March) offer fewer crowds. The region is notoriously weather-volatile – pack for all four seasons in one day.",
+  "climate": "Cold and windy year-round. Summer (Dec–Feb) temperatures range 12–20°C with occasional warm days. Wind is extreme – up to 100km/h gusts are common. Rain and sun can alternate within hours. Winter (June–Aug) is cold (0–5°C) and most facilities close.",
+  "attractions": [
+    {"name": "Torres del Paine National Park (Chile)", "description": "Chile's crown jewel with the iconic granite Torres peaks. The W Trek (4-5 days) or O Circuit (8-10 days) are bucket-list multi-day hikes. Book refugios 6+ months in advance.", "type": "national_park", "estimated_cost_usd": 35},
+    {"name": "Perito Moreno Glacier", "description": "One of the world's few advancing glaciers, 5km wide and 60m tall. Watch enormous ice chunks calve into Lago Argentino. Accessible from El Calafate.", "type": "glacier", "estimated_cost_usd": 25},
+    {"name": "Mirador Las Torres (Torres del Paine)", "description": "The classic Torres del Paine hike – a full day 19km return to the base of the three granite towers. Start at 6am to reach viewpoint before midday clouds.", "type": "hike", "estimated_cost_usd": 0},
+    {"name": "El Chaltén & Mount Fitz Roy", "description": "Argentina's hiking capital with trails to the base of the dramatic Fitz Roy massif. Laguna de los Tres hike offers the best views. No entry fee to the village.", "type": "hiking_town", "estimated_cost_usd": 0},
+    {"name": "Ushuaia – End of the World", "description": "The world's southernmost city and gateway to Antarctica. Take the End of the World train, explore Tierra del Fuego National Park, or join a Beagle Channel boat tour.", "type": "city", "estimated_cost_usd": 40},
+    {"name": "Glacier Grey (Torres del Paine)", "description": "Massive blue-tinged glacier accessed via an easy 11km day hike or kayaking tour from Grey Lake. Spectacular iceberg floating in the lake.", "type": "glacier", "estimated_cost_usd": 60},
+    {"name": "Puerto Natales", "description": "Gateway town to Torres del Paine with excellent restaurants and gear shops. A relaxed stop before or after the trek.", "type": "town", "estimated_cost_usd": 0},
+    {"name": "Wildlife of Patagonia", "description": "Guanacos, rheas, Andean condors, pumas, and elephant seals are commonly sighted. Peninsula Valdés near Puerto Madryn is world-class for whale watching (July–November).", "type": "wildlife", "estimated_cost_usd": 30}
+  ],
+  "food": [
+    {"name": "Asado (Argentine BBQ)", "description": "Argentina's national obsession – slow-grilled lamb (cordero) is the Patagonian speciality. Estancias (ranches) near El Calafate offer traditional asados.", "avg_cost_usd": 25},
+    {"name": "Centolla (King Crab)", "description": "Ushuaia's prized delicacy – enormous Fuegian king crab served grilled or in bisque. Expensive but exceptional.", "avg_cost_usd": 45},
+    {"name": "Refugio Food on the Trek", "description": "Torres del Paine refugios serve hearty lunches and dinners (soup, pasta, meat). Included in full-board refugio packages.", "avg_cost_usd": 30},
+    {"name": "Craft Beer in Bariloche", "description": "Northern Patagonia's chocolate and craft beer capital. Cervecería Blest is Argentina's oldest microbrewery.", "avg_cost_usd": 10},
+    {"name": "Calafate Berry Products", "description": "Local berry native to Patagonia – try the jam, ice cream, and liqueur throughout the region.", "avg_cost_usd": 5}
+  ],
+  "accommodation": [
+    {"name": "explora Patagonia", "type": "luxury lodge", "neighbourhood": "Torres del Paine", "avg_price_usd": 900},
+    {"name": "EcoCamp Patagonia", "type": "dome camp", "neighbourhood": "Torres del Paine", "avg_price_usd": 450},
+    {"name": "Las Torres Refugio", "type": "mountain hut", "neighbourhood": "Torres del Paine", "avg_price_usd": 90},
+    {"name": "Hostels in Puerto Natales", "type": "hostel", "neighbourhood": "Puerto Natales", "avg_price_usd": 20}
+  ],
+  "transport": "Fly into Punta Arenas (Chile) or El Calafate (Argentina) – both have international connections. Bus from Punta Arenas to Puerto Natales takes 3 hours. Shared minibuses run to Torres del Paine park entrance. Renting a car (4WD recommended) gives maximum flexibility for the Argentine side.",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 80, "mid": 200, "high": 700},
+    "notes": "Patagonia is not cheap. Torres del Paine camping/refugio packages cost $150-500+/night depending on season. Budget travellers can camp and self-cater for significantly less."
+  },
+  "tips": [
+    "Book Torres del Paine refugios or camping 6-12 months ahead – they sell out instantly.",
+    "Always carry 4 seasons of clothing – weather changes without warning.",
+    "The wind is a genuine hazard – trekking poles are essential.",
+    "Argentine Pesos devalue quickly – carry USD cash for better exchange rates.",
+    "Puma sightings are surprisingly common in Torres del Paine – keep distance and do not run."
+  ],
+  "interests": ["adventure", "nature", "hiking", "wildlife", "photography"]
+}

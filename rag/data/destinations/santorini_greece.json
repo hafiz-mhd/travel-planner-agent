@@ -1,0 +1,42 @@
+{
+  "title": "Santorini, Greece",
+  "destination": "Santorini",
+  "overview": "Santorini (officially Thira) is the most dramatic of the Greek islands – a volcanic caldera crescent of white-cubic Cycladic villages perched on 300m cliffs above a deep blue sea. Oia's famous sunsets, black-sand volcanic beaches, outstanding local wine, and world-class seafood make it one of the Mediterranean's most iconic destinations. Expensive but breathtaking.",
+  "best_time_to_visit": "May–June and September–October for warm weather (24–28°C), fewer crowds, and lower prices. July–August is peak season with intense crowds and prices. The island is nearly empty November–March.",
+  "climate": "Mediterranean. Hot, dry summers (28–33°C), mild winters (12–15°C). Very little rain May–October. Meltemi winds can be strong in July–August.",
+  "attractions": [
+    {"name": "Oia Sunset", "description": "Santorini's most famous experience – watching the sun set from the castle ruins at Oia. Arrive 2 hours early in summer for a spot. Blue-domed churches make for iconic photography.", "type": "experience", "estimated_cost_usd": 0},
+    {"name": "Caldera Boat Tour", "description": "Full-day catamaran or sailing tour of the caldera visiting the volcanic hot springs, the Red Beach, and anchoring for swimming and sunset. Includes lunch and drinks.", "type": "tour", "estimated_cost_usd": 80},
+    {"name": "Akrotiri Archaeological Site", "description": "Minoan Bronze Age city preserved under volcanic ash like a Greek Pompeii. One of the most important prehistoric sites in Europe. Underrated and excellent.", "type": "archaeological", "estimated_cost_usd": 12},
+    {"name": "Red Beach & Perissa Black Sand Beach", "description": "Santorini's volcanic heritage creates unique red-cliffed and black-sand beaches. Red Beach requires a 10-min cliff walk. Perissa has sunbeds, bars, and watersports.", "type": "beach", "estimated_cost_usd": 10},
+    {"name": "Fira Town & Caldera Walk", "description": "The capital town with cliffside boutiques, restaurants, and museums. Walk the 10km caldera trail from Fira to Oia for the best views on the island.", "type": "town", "estimated_cost_usd": 0},
+    {"name": "Santorini Wine Tasting", "description": "The island's volcanic soil produces exceptional Assyrtiko white wine. Santo Wines and Venetsanos Winery both have caldera-view tasting terraces.", "type": "wine", "estimated_cost_usd": 25},
+    {"name": "Pyrgos Village", "description": "Medieval hilltop village with Byzantine castle ruins and far fewer tourists than Oia. The best viewpoint on the island with 360° views at sunset.", "type": "village", "estimated_cost_usd": 0}
+  ],
+  "food": [
+    {"name": "Fresh Seafood at Amoudi Bay", "description": "The small port below Oia has excellent seafood tavernas serving grilled octopus, sea urchin, and fresh-caught fish. Worth the 300-step descent.", "avg_cost_usd": 40},
+    {"name": "Fava Bean Purée", "description": "Santorini's famous yellow split-pea purée is a local staple, drizzled with olive oil and capers. Perfect mezze starter at any taverna.", "avg_cost_usd": 8},
+    {"name": "Tomatokeftedes (Tomato Fritters)", "description": "Local speciality made with Santorini's famous small, sweet cherry tomatoes. Crispy, delicious, and unique to the island.", "avg_cost_usd": 10},
+    {"name": "Argo Restaurant (Fira)", "description": "Caldera-view restaurant with excellent modern Greek cuisine. Romantic dinner setting above the volcanic cliffs.", "avg_cost_usd": 55},
+    {"name": "Breakfast with a View", "description": "Many hotels serve breakfast on caldera-view terraces. Even simple hotels in Fira offer this. One of the world's great breakfast settings.", "avg_cost_usd": 25}
+  ],
+  "accommodation": [
+    {"name": "Canaves Oia Epitome", "type": "luxury cave suite", "neighbourhood": "Oia", "avg_price_usd": 1200},
+    {"name": "Ikies Traditional Houses", "type": "boutique", "neighbourhood": "Oia", "avg_price_usd": 450},
+    {"name": "Hotel Keti", "type": "mid-range", "neighbourhood": "Fira", "avg_price_usd": 180},
+    {"name": "Youth Hostel Anna", "type": "hostel", "neighbourhood": "Fira", "avg_price_usd": 25}
+  ],
+  "transport": "ATVs ($20-25/day) and scooters are the most popular way to explore. Car rental is also easy (~$40/day). Public buses connect main towns every 30-60 min. Water taxis connect Amoudi Bay to Fira and other points. Ferry from Athens Piraeus takes 7-9 hours; high-speed ferry 5 hours.",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 100, "mid": 280, "high": 800},
+    "notes": "Santorini is one of Greece's most expensive islands. Caldera-view hotels command a significant premium – staying in Perissa or Kamari cuts accommodation costs by 50-70% while still having great beaches."
+  },
+  "tips": [
+    "Book Oia accommodation 6+ months in advance for summer visits.",
+    "Avoid the cruise ship crowds (9am-6pm) – sightsee early morning or evening.",
+    "The caldera path from Fira to Oia is one of the world's best coastal walks – allow 4-5 hours.",
+    "Donkey rides up from the old port are controversial – the cable car is faster and kinder to animals.",
+    "Santorini wines are exceptional and unique – Assyrtiko is the signature grape."
+  ],
+  "interests": ["romance", "relaxation", "food", "wine", "photography", "culture", "beach"]
+}

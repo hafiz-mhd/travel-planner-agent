@@ -1,0 +1,43 @@
+{
+  "title": "Tokyo, Japan",
+  "destination": "Tokyo",
+  "overview": "Tokyo is Japan's capital and one of the world's most dynamic megacities. It blends ultramodern skyscrapers, cutting-edge technology, and ancient temples in a city of extraordinary contrasts. Renowned for its world-class cuisine, impeccable public transport, and unparalleled safety, Tokyo is a dream destination for food lovers, tech enthusiasts, and culture seekers alike.",
+  "best_time_to_visit": "March–May for cherry blossoms and mild weather. October–November for autumn foliage and clear skies. Avoid June–July (rainy season) and August (hot and humid).",
+  "climate": "Humid subtropical. Hot summers (30–35°C) with high humidity, mild springs and autumns (15–22°C), cool winters (5–10°C). June–July is rainy season.",
+  "attractions": [
+    {"name": "Senso-ji Temple", "description": "Tokyo's oldest and most significant Buddhist temple in Asakusa. The Nakamise shopping street leads to the main hall. Beautiful at dawn before crowds arrive.", "type": "temple", "estimated_cost_usd": 0},
+    {"name": "Shibuya Crossing", "description": "World's busiest pedestrian crossing, with over 3,000 people crossing at once. Best viewed from the Starbucks or Mag's Park above the intersection.", "type": "landmark", "estimated_cost_usd": 0},
+    {"name": "Shinjuku Gyoen National Garden", "description": "55-hectare park blending French, English, and Japanese garden styles. Best during cherry blossom season (late March–early April).", "type": "park", "estimated_cost_usd": 2},
+    {"name": "teamLab Borderless", "description": "Immersive digital art museum. Book online well in advance – sells out weeks ahead. Located in Odaiba.", "type": "museum", "estimated_cost_usd": 32},
+    {"name": "Tsukiji Outer Market", "description": "The outer market remains open to visitors with dozens of stalls selling sushi, tamagoyaki, and fresh seafood. Best for a morning food walk.", "type": "market", "estimated_cost_usd": 20},
+    {"name": "Akihabara Electric Town", "description": "World centre for electronics, anime, manga, and gaming. Great for tech shopping and exploring multi-floor arcades and maid cafes.", "type": "district", "estimated_cost_usd": 0},
+    {"name": "Harajuku & Takeshita Street", "description": "Youth fashion epicentre with colourful crepe shops, eccentric streetwear, and the serene Meiji Jingu shrine nearby.", "type": "district", "estimated_cost_usd": 5},
+    {"name": "Mount Fuji Day Trip", "description": "UNESCO World Heritage Site, 100km from Tokyo. Hakone or Kawaguchiko are best bases. Climbing season July–early September.", "type": "day_trip", "estimated_cost_usd": 60}
+  ],
+  "food": [
+    {"name": "Ramen", "description": "Tokyo-style shoyu (soy) ramen is a must. Ichiran for solo dining or Fuunji for tsukemen dipping ramen are local favourites.", "avg_cost_usd": 12},
+    {"name": "Sushi Omakase", "description": "Chef's choice multi-course sushi. Sukiyabashi Jiro (Ginza) is legendary but requires booking months ahead. Many excellent options in the $50–100 range.", "avg_cost_usd": 80},
+    {"name": "Izakaya Dinner", "description": "Japanese pub-style dining. Order small plates of yakitori, edamame, and sake. Shinjuku's Golden Gai has legendary tiny bars.", "avg_cost_usd": 25},
+    {"name": "Convenience Store Food", "description": "7-Eleven, FamilyMart, and Lawson in Japan serve surprisingly high-quality onigiri, sandwiches, and hot foods. A budget traveller's best friend.", "avg_cost_usd": 5},
+    {"name": "Tempura at Tsunahachi", "description": "Historic tempura restaurant in Shinjuku since 1923. Set menus with crispy seasonal vegetables and seafood tempura.", "avg_cost_usd": 30}
+  ],
+  "accommodation": [
+    {"name": "Park Hyatt Tokyo", "type": "luxury", "neighbourhood": "Shinjuku", "avg_price_usd": 600},
+    {"name": "Millennials Shibuya", "type": "boutique", "neighbourhood": "Shibuya", "avg_price_usd": 120},
+    {"name": "Khaosan Tokyo Original", "type": "hostel", "neighbourhood": "Asakusa", "avg_price_usd": 25},
+    {"name": "Capsule Hotel Anshin Oyado", "type": "capsule", "neighbourhood": "Shinjuku", "avg_price_usd": 40}
+  ],
+  "transport": "Tokyo's rail network is world-class. Buy a Suica or Pasmo IC card for seamless travel on metro, JR trains, and buses. A 7-day JR Pass is worthwhile for day trips. Taxis are expensive. The metro runs until ~midnight.",
+  "budget_guide": {
+    "budget_per_day_usd": {"low": 70, "mid": 180, "high": 450},
+    "notes": "Japan is more affordable than many visitors expect. A 7-day JR Pass costs ~$300 but covers all Shinkansen and local JR trains."
+  },
+  "tips": [
+    "Carry cash – many small shops and restaurants don't accept cards.",
+    "Bow slightly when greeting locals as a sign of respect.",
+    "No tipping – it can be considered rude in Japan.",
+    "Get a pocket WiFi or SIM card at the airport for navigation.",
+    "Last trains run around midnight; missing them means a taxi or overnight café."
+  ],
+  "interests": ["culture", "food", "technology", "adventure", "art", "shopping"]
+}
